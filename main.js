@@ -54,7 +54,7 @@ function game() {
     img.classList.add('bear')
 
     const imgs = [{
-        show: '/image/bear.png',
+        show: 'image/bear.png',
         click: './image/Bear-on.png',
         score: 1
     }, {
